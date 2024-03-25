@@ -1,5 +1,5 @@
 # DesafioTarget
-Nesse repositório terá as questões respondidas proposta pela Target Sistemas para vaga de estágio.
+Nesse repositório terá as questões respondidas proposta pela Target Sistemas no desafio
 
 A seguir são as questões do desafio:
 
